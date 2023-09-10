@@ -1,7 +1,7 @@
 # learning-git
 Learn git by amigocode.
 
-##Add an image 
+## Add an image 
 
 https://github.com/loique70/learning-git/edit/main/README.md
 
